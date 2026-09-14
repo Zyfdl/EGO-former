@@ -4,7 +4,7 @@ Predicting the interactions between transcription factors and their target genes
 and GO terms as the sample data.EGO-former is a Encoder-only model that combined a bidirectional cross attention module to extract the interaction features between transcription factors and target genes with a difference of the target gene to the transcription factor encoding pooled vectors to capture more feature informations. Following 5-fold cross experiments,our model not only achieved a prediction accuracy of 0.8771 for transcription factors and their target genes that was outperforming classical models such as
 Convolutional Neural Networks and Graph Neural Networks,but also demonstrated superior performance across other evaluation metrics.
 
-(https://github.com/Zyfdl/EGO-former/blob/TF_Target/EGO_former.png)
+https://github.com/Zyfdl/EGO-former/blob/TF_Target/EGO_former.png
 
 ## Running
 
